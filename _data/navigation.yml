@@ -1,0 +1,31 @@
+- title: Superia Homes
+  url: "/"
+  side: left
+
+- title: Work
+  url: "/work/"
+  side: left
+
+- title: About
+  url: "/about/"
+  side: left
+  dropdown:
+    - title: CV
+      url: "/about/cv/"
+    - title: Talks
+      url: "/about/talks/"
+
+- title: Blog
+  url: "/blog/"
+  side: left
+  dropdown:
+  - title: "Blog Archive"
+    url: "/blog/archive/"
+
+- title: "Search"
+  url: "/search/"
+  side: right
+
+- title: "Contact"
+  url: "/contact/"
+  side: right
