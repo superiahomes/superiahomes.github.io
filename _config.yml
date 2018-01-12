@@ -23,7 +23,7 @@ description: "Superia Homes is a real estate investment company based in Souther
 author: Jason Kuo
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
-url: #'http://clhenrick.io'
+url: 'https://superiahomes.github.io'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
@@ -156,8 +156,8 @@ defaults:
 #   ___/ / /___/ /_/ /
 #  /____/_____/\____/    Verify Website to Webmaster Tools
 
-google_author:             "https://plus.google.com/u/0/103791827597799558729"
-google_site_verification:  "hb0oFgJAnd2i2LvJYSEIofF5sc24xc8hx2tTNittvHA"
+# google_author:             "https://plus.google.com/u/0/103791827597799558729"
+# google_site_verification:  "hb0oFgJAnd2i2LvJYSEIofF5sc24xc8hx2tTNittvHA"
 # bing_webmastertools_id:    "0FB4C028ABCF07C908C54386ABD2D97F"
 # alexa_verify_id:         ""
 
@@ -209,7 +209,7 @@ msapplication_tilecolor:                "#fabb00"
 #
 
 socialmedia:
-    twitter: '@chrislhenrick'
+    twitter: '@jsonkuo'
 
 #        ____  _
 #       / __ \(_)________ ___  _______
@@ -220,7 +220,7 @@ socialmedia:
 #
 # used in _includes/comments
 
-disqus_shortname: chrishenrick
+disqus_shortname: jsonkuo
 
 
 #      _____
@@ -244,7 +244,7 @@ sass:
 #
 # used in _includes/footer_scripts
 
-google_analytics_tracking_id: 'UA-69968207-1'
+google_analytics_tracking_id: ''
 
 
 
