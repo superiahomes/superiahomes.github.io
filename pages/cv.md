@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page-fullwidth
 show_meta: false
 title: "Curriculum Vitae"
@@ -188,4 +188,4 @@ GPA 3.49
 - MapBox platform, javascript library, & API's  
 - Cartographic design using TileMill and CartoCSS  
 - Adobe Software: Illustrator, Photoshop, and InDesign  
-- MAPublisher (GIS & Cartography plug-in for Adobe Illustrator)
+- MAPublisher (GIS & Cartography plug-in for Adobe Illustrator) -->

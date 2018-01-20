@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page-fullwidth
 show_meta: false
 title: "Talks"
@@ -72,4 +72,4 @@ Participants will share, pecha-kucha style, their work in grassroots mapping and
 *cARTography GeoMixer / California College of the Arts, SF / June 19, 2014*
 
 ### Bias In Cartography And Geospatial Data
-*GeoNYC Student Showcase / New York Public Library Main Branch, New York, NY / February 10, 2014*
+*GeoNYC Student Showcase / New York Public Library Main Branch, New York, NY / February 10, 2014* -->

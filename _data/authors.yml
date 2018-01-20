@@ -13,9 +13,9 @@
 #   twitter: "@chrislhenrick"
 # you can add more authors here
 
-jsonkuo: # replace this with your info
+jsonkuo:
   name: "Jason Kuo"
-  siterole: "Project Manager"
+  siterole: "Admin"
   uri:
   email: iamjasonkuo@gmail.com
-  twitter: "@chrislhenrick"
+  twitter: "@jsonkuo"

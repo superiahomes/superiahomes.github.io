@@ -6,23 +6,22 @@
 #
 layout: frontpage
 header:
-  title: Chris L Henrick 
-  image_fullwidth: clhenrick-landing-header.jpg
+  title: Design Thinking for Real Estate Developments
+  image_fullwidth: 731-hood-front.jpg
 widget1:
-  title: "My Work"
+  title: "Our Work"
   url: '/work/'
-  <!-- image: nag-toxicity-map01-thumb.jpg -->
-  text: '<strong>Encompasses:</strong> Data Visualizaton - Web Development - Cartographic Design - Open Source GIS - Data Wrangling'
+  image: blueprint-pen-small.jpg
+  text: '<strong>Encompasses:</strong> Single Family Homes - Apartments - Condominiums - Tract Developments'
 widget2:
   title: "Blog"
   url: '/blog/'
-  <!-- image: widget02.jpg -->
-  text: 'My ramblings on previous projects and solving problems relating to the web, data, cartography, and design.' 
+  image: cup-mug-desk-office-small.jpeg
+  text: 'Our ramblings on previous projects and solving problems relating to the zoning, planning, construction, or sales.'
 widget3:
-  title: "Talk to me"
+  title: "Talk to Us"
   url: '/contact/'
-  <!-- image: widget03.jpg -->
-  text: 'Want advice on how to get creative with your data? Need a custom mapping solution? Or just want to say hello?'
+  image: partner-shake-small.jpeg
+  text: 'Want work on a joint venture? Need advice on real estate construction and development? Or just want to say hello?'
 permalink: /index.html
 ---
-

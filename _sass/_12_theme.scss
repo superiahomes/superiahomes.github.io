@@ -9,7 +9,7 @@
 
 // buttons
 $button-color: $ci-2;
-$button-color-active: darken($button-color, 15%);
+$button-color-active: lighten($button-color, 5%);
 
 button, .button {
   background: $button-color;
@@ -97,15 +97,16 @@ table {
   display: inline-block;
   margin: 0;
   padding: 5px 5px 8px 5px;
-  background-color: $grey-10; //lighten($grey-1, 5);
-  border: 2px solid $grey-9;
+  background-color: $ci-4;
+  border: 2px solid $ci-4;
   // box-shadow: 0px 0px 0px 0px $ci-3;
   transition: box-shadow 100ms linear;
 
-  p { color: #DDD; }
+  p { color: $ci-2; }
 
   &:hover{
-    box-shadow: 0px 0px 0px 4px $ci-3;
+    // box-shadow: 0px 0px 0px 4px $ci-7;
+    background-color: #fff;
   }
 
   &.width2 {
@@ -152,4 +153,8 @@ iframe.tiles {
   @media only screen and (max-width: 40em) {
     height: 400px;
   }
+}
+
+.item-meta > h4 {
+  margin: 0 0 0 0;
 }

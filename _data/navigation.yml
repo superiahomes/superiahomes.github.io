@@ -10,8 +10,6 @@
   url: "/about/"
   side: left
   dropdown:
-    - title: CV
-      url: "/about/cv/"
     - title: Talks
       url: "/about/talks/"
 

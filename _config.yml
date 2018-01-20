@@ -13,7 +13,7 @@ title: "Superia Homes, Inc – Real Estate Investment and Development"
 title_short: "Superia Homes, Inc"
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: "Web Development, Data Visualization, GIS, Maps, & Cartography"
+slogan: "Real Estate Investment and Development"
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
 description: "Superia Homes is a real estate investment company based in Southern California with a focus in residential development. The depth and breadth of our team allows us to address every aspect of an investment including sourcing, due diligence, financing, construction, design, marketing and sales. We strive to maintain a high standard of build quality and design, resulting in a superior product for our customer and excellent financial returns for our investors."
@@ -28,7 +28,7 @@ baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: https://github.com/clhenrick/portfolio/
+improve_content: https://github.com/superiahomes/superiahomes.github.io
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
@@ -170,16 +170,29 @@ defaults:
 #   /_/    \__,_/ |___/_/\___/\____/_/ /_/____/   Favicon-Crap: Favicons, Chrome, Android & Apple Touch Buttons
 #                                                 More information » https://mathiasbynens.be/notes/touch-icons
 
-favicon-32x32:                          "favicon-32x32.png"
-touch-icon-192x192:                     "touch-icon-192x192.png"
-apple-touch-icon-180x180-precomposed:   "apple-touch-icon-180x180-precomposed.png"
-apple-touch-icon-152x152-precomposed:   "apple-touch-icon-152x152-precomposed.png"
-apple-touch-icon-144x144-precomposed:   "apple-touch-icon-144x144-precomposed.png"
-apple-touch-icon-120x120-precomposed:   "apple-touch-icon-120x120-precomposed.png"
-apple-touch-icon-114x114-precomposed:   "apple-touch-icon-114x114-precomposed.png"
-apple-touch-icon-76x76-precomposed:     "apple-touch-icon-76x76-precomposed.png"
-apple-touch-icon-72x72-precomposed:     "apple-touch-icon-72x72-precomposed.png"
-apple-touch-icon-precomposed:           "apple-touch-icon-precomposed.png"
+# favicon-32x32:                          "favicon-32x32.png"
+# touch-icon-192x192:                     "touch-icon-192x192.png"
+# apple-touch-icon-180x180-precomposed:   "apple-touch-icon-180x180-precomposed.png"
+# apple-touch-icon-152x152-precomposed:   "apple-touch-icon-152x152-precomposed.png"
+# apple-touch-icon-144x144-precomposed:   "apple-touch-icon-144x144-precomposed.png"
+# apple-touch-icon-120x120-precomposed:   "apple-touch-icon-120x120-precomposed.png"
+# apple-touch-icon-114x114-precomposed:   "apple-touch-icon-114x114-precomposed.png"
+# apple-touch-icon-76x76-precomposed:     "apple-touch-icon-76x76-precomposed.png"
+# apple-touch-icon-72x72-precomposed:     "apple-touch-icon-72x72-precomposed.png"
+# apple-touch-icon-precomposed:           "apple-touch-icon-precomposed.png"
+# msapplication_tileimage:                "msapplication_tileimage.png"               # Size 144x144
+# msapplication_tilecolor:                "#fabb00"
+
+favicon-32x32:                          "favicon-sh-32x32.png"
+touch-icon-192x192:                     "android-icon-192x192.png"
+apple-touch-icon-180x180-precomposed:   "apple-icon-180x180-precomposed.png"
+apple-touch-icon-152x152-precomposed:   "apple-icon-152x152-precomposed.png"
+apple-touch-icon-144x144-precomposed:   "apple-icon-144x144-precomposed.png"
+apple-touch-icon-120x120-precomposed:   "apple-icon-120x120-precomposed.png"
+apple-touch-icon-114x114-precomposed:   "apple-icon-114x114-precomposed.png"
+apple-touch-icon-76x76-precomposed:     "apple-icon-76x76-precomposed.png"
+apple-touch-icon-72x72-precomposed:     "apple-icon-72x72-precomposed.png"
+apple-touch-icon-precomposed:           "apple-icon-precomposed.png"
 msapplication_tileimage:                "msapplication_tileimage.png"               # Size 144x144
 msapplication_tilecolor:                "#fabb00"
 

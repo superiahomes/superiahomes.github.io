@@ -3,7 +3,7 @@
 layout: video
 show_meta: true
 title: "{{title}}"
-meta_title: "Chris Henrick featured work: {{title}}"
+meta_title: "Superia Homes featured work: {{title}}"
 teaser: "{{description}}"
 tags:
     - {{#each tags}}{{this}} {{/each}}
@@ -22,7 +22,10 @@ permalink: "/work/{{permalink}}"
 layout: page-fullwidth
 show_meta: true
 title: "{{title}}"
-meta_title: "Chris Henrick featured work: {{title}}"
+meta_title: "Superia Homes featured work: {{title}}"
+address: "{{address}}"
+city: "{{city}}"
+neighborhood: "{{neighborhood}}"
 teaser: "{{description}}"
 date: "{{date}}"
 tags:
@@ -39,11 +42,16 @@ permalink: "/work/{{permalink}}"
 {{/if}}
 
 {{#if description_long}}
+<strong>Scope:</strong> <br>
 {{{description_long}}}
 {{/if}}
 
 {{#if tech}}
 <strong>Technologies Used:</strong> {{#each tech }} - {{this}} {{/each}}
+{{/if}}
+
+{{#if resources}}
+<strong>Partners:</strong> <br> {{#each resources }} {{this}} <br> {{/each}}
 {{/if}}
 
 {{#if code}}
@@ -66,4 +74,4 @@ permalink: "/work/{{permalink}}"
 
 {{/unless}}
 
-[<span class="back-arrow">&#8619;</span> Back to the Portfolio]({{ site.url }}{{ site.baseurl }}/work/)
+<!-- [<span class="back-arrow">&#8619;</span> Back to the Portfolio]({{ site.url }}{{ site.baseurl }}/work/) -->

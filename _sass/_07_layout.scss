@@ -72,12 +72,12 @@ body.video cite { color: #fff; }
 }
 #masthead-with-text {
     text-align: center;
-    font-size: rem-calc(54);
+    font-size: rem-calc(25);
     font-family: $header-font-family;
     font-weight: bolder;
-    color: #fff;
-    text-transform: uppercase;
-    text-shadow: 2px 3px 3px rgba(0,0,0,1);
+    color: $ci-1;
+    text-transform: none;
+    // text-shadow: 2px 3px 3px rgba(0,0,0,1);
     letter-spacing: 0.1em;
 
     // center the text in the masthead
@@ -227,7 +227,7 @@ body.video cite { color: #fff; }
 #page-meta .button {
     background: $grey-5;
     border: 0;
-    
+
     &.small {
         padding: 10px;
     }

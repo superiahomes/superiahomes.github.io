@@ -5,10 +5,10 @@
 #   class: "network-entypo"
 #   title: "Icons by Daniel Bruce"
 
-- name: "Built on Foundation"
-  url: "http://foundation.zurb.com/"
-  class: "services-newsletter"
-  title: "Built on Foundation"
+# - name: "Built on Foundation"
+#   url: "http://foundation.zurb.com/"
+#   class: "services-newsletter"
+#   title: "Built on Foundation"
 
 # - name: "Images by Unsplash"
 #   url: "http://unsplash.com/"
@@ -21,6 +21,6 @@
 #   title: "Using Backstretch by Scott Robbin"
 
 - name: "Code on Github"
-  url: "https://github.com/clhenrick/portfolio"
+  url: "https://github.com/superiahomes/superiahomes.github.io"
   class: "site-code"
-  title: "Code available on Github"
+  title: "Code and Samples available on Github"

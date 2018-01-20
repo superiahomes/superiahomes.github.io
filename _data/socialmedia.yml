@@ -1,5 +1,7 @@
+- menu_name: "Social"
+
 - name: GitHub
-  url: https://github.com/clhenrick
+  url: https://github.com/superiahomes
   class: icon-github
   title: "Code"
 
@@ -9,7 +11,7 @@
 #   title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
 
 - name: Twitter
-  url: https://twitter.com/chrislhenrick
+  url: https://twitter.com/superiahomes
   class: icon-twitter
   title: "Twitter"
 
@@ -19,7 +21,7 @@
 #   title: ""
 
 # - name: Facebook
-#   url: http://www.facebook.com/
+#   url: http://www.facebook.com/ß
 #   class: icon-facebook
 #   title: ""
 

@@ -2,7 +2,7 @@
 layout: page-fullwidth
 show_meta: false
 title: "Portfolio"
-meta_description: "Featured work of Chris Henrick"
+meta_description: "Featured work of Superia Homes"
 subheadline: ""
 permalink: "/work/"
 header: no
@@ -11,9 +11,12 @@ header: no
 <!-- use isotope.js to create and organize content here -->
 <div id="filters" class="button-group filter-button-group t30">
   <button class="active all" data-filter="*">all</button>
-  <button data-filter=".web">interactive</button>
-  <button data-filter=".data-viz">data viz</button>  
-  <button data-filter=".cartography">cartographic design</button>
+  <button data-filter=".entitlement">entitlement</button>
+  <button data-filter=".single-family">single family</button>
+  <button data-filter=".multi-family">multi-family</button>  
+  <button data-filter=".tract-homes">tract homes</button>
+  <button data-filter=".new-construction">new construction</button>
+  <button data-filter=".remodel">remodel design</button>
   <button class="shuffle">shuffle!</button>
 </div>
 
@@ -29,7 +32,7 @@ header: no
         {% endif %}
         <div class="item-meta">
           <h4 class="item-title">{{ item.title }}</h4>
-          <p class="item-description">{{ item.description }}</p>
+          <p class="item-description">{{ item.city }}</p>
         </div>
       </a>
     </div>  
