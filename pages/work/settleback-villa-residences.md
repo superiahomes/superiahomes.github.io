@@ -22,16 +22,16 @@ permalink: "/work/settleback-villa-residences.html"
 <strong>Partners:</strong> <br> 
 
 
-  <a href="{{site.url}}{{site.baseurl}}/images/crashmapper-chart-view01.png" target="_blank">
-    <img class="portfolio lazy" data-original="{{site.url}}{{site.baseurl}}/images/crashmapper-chart-view01.png" width="100%" height="100%" alt="crashmapper-chart-view01.png">
+  <a href="{{site.url}}/images/crashmapper-chart-view01.png" target="_blank">
+    <img class="portfolio lazy" data-original="{{site.url}}/images/crashmapper-chart-view01.png" width="100%" height="100%" alt="crashmapper-chart-view01.png">
     <noscript>
-      <img src="{{site.url}}{{site.baseurl}}/images/crashmapper-chart-view01.png" width="100%" height="100%" alt="crashmapper-chart-view01.png">
+      <img src="{{site.url}}/images/crashmapper-chart-view01.png" width="100%" height="100%" alt="crashmapper-chart-view01.png">
     </noscript>
   </a>
-  <a href="{{site.url}}{{site.baseurl}}/images/crashmapper-chart-view02.png" target="_blank">
-    <img class="portfolio lazy" data-original="{{site.url}}{{site.baseurl}}/images/crashmapper-chart-view02.png" width="100%" height="100%" alt="crashmapper-chart-view02.png">
+  <a href="{{site.url}}/images/crashmapper-chart-view02.png" target="_blank">
+    <img class="portfolio lazy" data-original="{{site.url}}/images/crashmapper-chart-view02.png" width="100%" height="100%" alt="crashmapper-chart-view02.png">
     <noscript>
-      <img src="{{site.url}}{{site.baseurl}}/images/crashmapper-chart-view02.png" width="100%" height="100%" alt="crashmapper-chart-view02.png">
+      <img src="{{site.url}}/images/crashmapper-chart-view02.png" width="100%" height="100%" alt="crashmapper-chart-view02.png">
     </noscript>
   </a>
 

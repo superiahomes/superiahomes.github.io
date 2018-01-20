@@ -25,28 +25,28 @@ Parkway Court presents 9 single family homes for sale. Homes range between $720,
 <strong>Partners:</strong> <br> 
 
 
-  <a href="{{site.url}}{{site.baseurl}}/images/parkway-court-1.jpg" target="_blank">
-    <img class="portfolio lazy" data-original="{{site.url}}{{site.baseurl}}/images/parkway-court-1.jpg" width="100%" height="100%" alt="parkway-court-1.jpg">
+  <a href="{{site.url}}/images/parkway-court-1.jpg" target="_blank">
+    <img class="portfolio lazy" data-original="{{site.url}}/images/parkway-court-1.jpg" width="100%" height="100%" alt="parkway-court-1.jpg">
     <noscript>
-      <img src="{{site.url}}{{site.baseurl}}/images/parkway-court-1.jpg" width="100%" height="100%" alt="parkway-court-1.jpg">
+      <img src="{{site.url}}/images/parkway-court-1.jpg" width="100%" height="100%" alt="parkway-court-1.jpg">
     </noscript>
   </a>
-  <a href="{{site.url}}{{site.baseurl}}/images/parkway-court-2.jpg" target="_blank">
-    <img class="portfolio lazy" data-original="{{site.url}}{{site.baseurl}}/images/parkway-court-2.jpg" width="100%" height="100%" alt="parkway-court-2.jpg">
+  <a href="{{site.url}}/images/parkway-court-2.jpg" target="_blank">
+    <img class="portfolio lazy" data-original="{{site.url}}/images/parkway-court-2.jpg" width="100%" height="100%" alt="parkway-court-2.jpg">
     <noscript>
-      <img src="{{site.url}}{{site.baseurl}}/images/parkway-court-2.jpg" width="100%" height="100%" alt="parkway-court-2.jpg">
+      <img src="{{site.url}}/images/parkway-court-2.jpg" width="100%" height="100%" alt="parkway-court-2.jpg">
     </noscript>
   </a>
-  <a href="{{site.url}}{{site.baseurl}}/images/parkway-court-1-interior-1.jpg" target="_blank">
-    <img class="portfolio lazy" data-original="{{site.url}}{{site.baseurl}}/images/parkway-court-1-interior-1.jpg" width="100%" height="100%" alt="parkway-court-1-interior-1.jpg">
+  <a href="{{site.url}}/images/parkway-court-1-interior-1.jpg" target="_blank">
+    <img class="portfolio lazy" data-original="{{site.url}}/images/parkway-court-1-interior-1.jpg" width="100%" height="100%" alt="parkway-court-1-interior-1.jpg">
     <noscript>
-      <img src="{{site.url}}{{site.baseurl}}/images/parkway-court-1-interior-1.jpg" width="100%" height="100%" alt="parkway-court-1-interior-1.jpg">
+      <img src="{{site.url}}/images/parkway-court-1-interior-1.jpg" width="100%" height="100%" alt="parkway-court-1-interior-1.jpg">
     </noscript>
   </a>
-  <a href="{{site.url}}{{site.baseurl}}/images/parkway-court-1-interior-2.jpg" target="_blank">
-    <img class="portfolio lazy" data-original="{{site.url}}{{site.baseurl}}/images/parkway-court-1-interior-2.jpg" width="100%" height="100%" alt="parkway-court-1-interior-2.jpg">
+  <a href="{{site.url}}/images/parkway-court-1-interior-2.jpg" target="_blank">
+    <img class="portfolio lazy" data-original="{{site.url}}/images/parkway-court-1-interior-2.jpg" width="100%" height="100%" alt="parkway-court-1-interior-2.jpg">
     <noscript>
-      <img src="{{site.url}}{{site.baseurl}}/images/parkway-court-1-interior-2.jpg" width="100%" height="100%" alt="parkway-court-1-interior-2.jpg">
+      <img src="{{site.url}}/images/parkway-court-1-interior-2.jpg" width="100%" height="100%" alt="parkway-court-1-interior-2.jpg">
     </noscript>
   </a>
 
