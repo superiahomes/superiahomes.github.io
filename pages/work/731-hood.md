@@ -23,31 +23,31 @@ permalink: "/work/731-hood.html"
 
 
   <a href="{{site.url}}/images/731-hood-front.jpg" target="_blank">
-    <img class="portfolio lazy" data-original="{{site.url}}/images/731-hood-front.jpg" width="100%" height="100%" alt="731-hood-front.jpg">
+    <img class="portfolio lazy" src="{{site.url}}/images/731-hood-front.jpg" width="100%" height="100%" alt="731-hood-front.jpg">
     <noscript>
       <img src="{{site.url}}/images/731-hood-front.jpg" width="100%" height="100%" alt="731-hood-front.jpg">
     </noscript>
   </a>
   <a href="{{site.url}}/images/731-hood-interior-1.jpg" target="_blank">
-    <img class="portfolio lazy" data-original="{{site.url}}/images/731-hood-interior-1.jpg" width="100%" height="100%" alt="731-hood-interior-1.jpg">
+    <img class="portfolio lazy" src="{{site.url}}/images/731-hood-interior-1.jpg" width="100%" height="100%" alt="731-hood-interior-1.jpg">
     <noscript>
       <img src="{{site.url}}/images/731-hood-interior-1.jpg" width="100%" height="100%" alt="731-hood-interior-1.jpg">
     </noscript>
   </a>
   <a href="{{site.url}}/images/731-hood-interior-2.jpg" target="_blank">
-    <img class="portfolio lazy" data-original="{{site.url}}/images/731-hood-interior-2.jpg" width="100%" height="100%" alt="731-hood-interior-2.jpg">
+    <img class="portfolio lazy" src="{{site.url}}/images/731-hood-interior-2.jpg" width="100%" height="100%" alt="731-hood-interior-2.jpg">
     <noscript>
       <img src="{{site.url}}/images/731-hood-interior-2.jpg" width="100%" height="100%" alt="731-hood-interior-2.jpg">
     </noscript>
   </a>
   <a href="{{site.url}}/images/731-hood-interior-3.jpg" target="_blank">
-    <img class="portfolio lazy" data-original="{{site.url}}/images/731-hood-interior-3.jpg" width="100%" height="100%" alt="731-hood-interior-3.jpg">
+    <img class="portfolio lazy" src="{{site.url}}/images/731-hood-interior-3.jpg" width="100%" height="100%" alt="731-hood-interior-3.jpg">
     <noscript>
       <img src="{{site.url}}/images/731-hood-interior-3.jpg" width="100%" height="100%" alt="731-hood-interior-3.jpg">
     </noscript>
   </a>
   <a href="{{site.url}}/images/731-hood-exterior-1.jpg" target="_blank">
-    <img class="portfolio lazy" data-original="{{site.url}}/images/731-hood-exterior-1.jpg" width="100%" height="100%" alt="731-hood-exterior-1.jpg">
+    <img class="portfolio lazy" src="{{site.url}}/images/731-hood-exterior-1.jpg" width="100%" height="100%" alt="731-hood-exterior-1.jpg">
     <noscript>
       <img src="{{site.url}}/images/731-hood-exterior-1.jpg" width="100%" height="100%" alt="731-hood-exterior-1.jpg">
     </noscript>

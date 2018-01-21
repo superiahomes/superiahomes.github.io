@@ -25,7 +25,7 @@ Demolish the existing 1-story residence and build a new 3-story 4-unit apartment
 
 
   <a href="{{site.url}}/images/mont-clair-residences-study.png" target="_blank">
-    <img class="portfolio lazy" data-original="{{site.url}}/images/mont-clair-residences-study.png" width="100%" height="100%" alt="mont-clair-residences-study.png">
+    <img class="portfolio lazy" src="{{site.url}}/images/mont-clair-residences-study.png" width="100%" height="100%" alt="mont-clair-residences-study.png">
     <noscript>
       <img src="{{site.url}}/images/mont-clair-residences-study.png" width="100%" height="100%" alt="mont-clair-residences-study.png">
     </noscript>

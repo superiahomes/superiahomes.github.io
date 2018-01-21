@@ -23,13 +23,13 @@ permalink: "/work/settleback-villa-residences.html"
 
 
   <a href="{{site.url}}/images/crashmapper-chart-view01.png" target="_blank">
-    <img class="portfolio lazy" data-original="{{site.url}}/images/crashmapper-chart-view01.png" width="100%" height="100%" alt="crashmapper-chart-view01.png">
+    <img class="portfolio lazy" src="{{site.url}}/images/crashmapper-chart-view01.png" width="100%" height="100%" alt="crashmapper-chart-view01.png">
     <noscript>
       <img src="{{site.url}}/images/crashmapper-chart-view01.png" width="100%" height="100%" alt="crashmapper-chart-view01.png">
     </noscript>
   </a>
   <a href="{{site.url}}/images/crashmapper-chart-view02.png" target="_blank">
-    <img class="portfolio lazy" data-original="{{site.url}}/images/crashmapper-chart-view02.png" width="100%" height="100%" alt="crashmapper-chart-view02.png">
+    <img class="portfolio lazy" src="{{site.url}}/images/crashmapper-chart-view02.png" width="100%" height="100%" alt="crashmapper-chart-view02.png">
     <noscript>
       <img src="{{site.url}}/images/crashmapper-chart-view02.png" width="100%" height="100%" alt="crashmapper-chart-view02.png">
     </noscript>
